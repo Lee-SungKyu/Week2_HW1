@@ -4,6 +4,7 @@ public class StudentApp_sort implements Comparable<StudentApp_sort>{
 	String name;
 
 	public StudentApp_sort() {}
+	
 	public StudentApp_sort(String name) {
 		super();
 		this.name = name;
