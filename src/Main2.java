@@ -3,8 +3,6 @@ import java.util.Collections;
 
 public class Main2 {
 
-	private static final boolean FruitApp_sort = false;
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
